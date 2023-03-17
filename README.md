@@ -1,6 +1,6 @@
 # Hi, I'm Munalula Sikazwe 👋
 
-I'm a software engineer based in Lusaka, Zambia. I love working on web development projects and I'm always looking for ways to learn and improve my skills.
+I'm a Software engineer based in Lusaka, Zambia. I love working on web development projects and I'm always looking for ways to learn and improve my skills.
 
 ## 🌱 Skills
 
