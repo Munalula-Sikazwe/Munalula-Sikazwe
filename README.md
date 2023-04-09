@@ -19,12 +19,6 @@ I'm a Software engineer based in Lusaka, Zambia. I love working on web developme
 - Email: munalulasikazwe67@gmail.com
 - Phone: +260971004291
 
-## 👨‍💻 Recent Activity
-
-<!--START_SECTION:activity-->
-1. [Opened a pull request](https://github.com/munalula/repo-name/pull/1) in [Repo Name](https://github.com/munalula/repo-name)
-2. [Created a new issue](https://github.com/munalula/repo-name/issues/2) in [Repo Name](https://github.com/munalula/repo-name)
-<!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats
 
