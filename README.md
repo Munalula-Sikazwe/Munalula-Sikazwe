@@ -22,5 +22,5 @@ I'm a Software engineer based in Lusaka, Zambia. I love working on web developme
 
 ## 📈 GitHub Stats
 
-[![Munalula Sikazwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munalula-Sikazwe&show_icons=true&theme=dark)](https://github.com/Munalula-Sikazwe)
+[![Munalula Sikazwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munalula-Sikazwe&show_icons=true&theme=dark&count_private=true)](https://github.com/Munalula-Sikazwe)
 
